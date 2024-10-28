@@ -2,11 +2,10 @@
 
 My name is Jaffa (or Geoffroy \ʒɔ.fʁwa\ in French) and I'm a passionate software engineer available looking for work as a B2B contractor.
 
-I recently returned home after two years of traveling, and I'm now actively looking for work, preferably long-term contracts.
+I recently returned home after two years of travelling, and I'm now actively looking for work, preferably long-term contracts.
 
 I'm focused on backend and software development, and most of my last professional work was done in Ruby.
 That said, I'm open to change and like learning new things; for example, I've recently done some personal projects in Rust.
-
 
 #### Techs
 
