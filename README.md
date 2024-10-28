@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+My name is Jaffa (or Geoffroy in French) and I'm a passionate software engineer available looking for work as a B2B contractor.
+
+I recently returned home after two years of traveling, and I'm now actively looking for work, preferably long-term contracts.
+
 <!--
 **Aethelflaed/Aethelflaed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +18,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![My LinkedIn](https://img.shields.io/badge/Jaffa%20Planquart-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/geoffroyplanquart/)
+
+<a href="https://stackoverflow.com/users/610351/jaffa"><img src="https://stackoverflow.com/users/flair/610351.png" width="208" height="58" alt="profile for Jaffa at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Jaffa at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
