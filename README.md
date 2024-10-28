@@ -1,28 +1,16 @@
 ## Hi there 👋
 
-My name is Jaffa (or Geoffroy in French) and I'm a passionate software engineer available looking for work as a B2B contractor.
+My name is Jaffa (or Geoffroy \ʒɔ.fʁwa\ in French) and I'm a passionate software engineer available looking for work as a B2B contractor.
 
 I recently returned home after two years of traveling, and I'm now actively looking for work, preferably long-term contracts.
 
 I'm focused on backend and software development, and most of my last professional work was done in Ruby.
 That said, I'm open to change and like learning new things; for example, I've recently done some personal projects in Rust.
 
-<!--
-**Aethelflaed/Aethelflaed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 #### Techs
+
+Here are some of the techs I've worked with:
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
@@ -55,9 +43,23 @@ Here are some ideas to get you started:
 ![CircleCI](https://img.shields.io/badge/circle%20ci-%23161616.svg?style=for-the-badge&logo=circleci&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 #### Links
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/geoffroyplanquart/)
 
 <a href="https://stackoverflow.com/users/610351/jaffa"><img src="https://stackoverflow.com/users/flair/610351.png" width="208" height="58" alt="profile for Jaffa at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Jaffa at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+
+#### Hobbies
+
+When I'm not on the computer, I like DIY crafts, particularly leatherworking & sewing.
+
+I also like rock climbing, which I try to do several times a week, and I usually get around by cycling.
+
+I’m a bit of a language nerd, and beside English and French, I also more modestly speak Italian and German, and then I know a bit of other languages, such as Russian, Spanish, …
